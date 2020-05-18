@@ -10,6 +10,9 @@ public class test {
 		System.out.println("test2");
 		
 		System.out.println("update");
+		
+		System.out.println("update1");
+		System.out.println("update2");
 	}
 
 }

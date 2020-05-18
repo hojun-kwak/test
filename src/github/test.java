@@ -22,6 +22,10 @@ public class test {
 		
 		System.out.println("update1");
 		System.out.println("update2");
+		
+		System.out.println("update1");
+		System.out.println("update2");
+
 
 
 	}
